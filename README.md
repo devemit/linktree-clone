@@ -16,7 +16,7 @@
 
 ## Links 
 - Repository URL: [View code](https://github.com/devemit/linktree-clone)
-- Live Site URL: [Live Preview](https://meteo-today.netlify.app/)
+- Live Site URL: [Live Preview](https://linktree-mitko.netlify.app/)
 
 ## Built with
 - React
